@@ -44,7 +44,7 @@ PCA identifies questions that measure similar constructs. For instance:
 - *"I tend to act boldly in situations where risk is involved"* (Q7)
 - *"I like to take bold action by venturing into the unknown"* (Q32)
 
-These correlated items are grouped into a single component, such as **Confidence**.
+These correlated items are grouped into a single component, such as **Risk taking**.
 
 ### Identified Components
 
