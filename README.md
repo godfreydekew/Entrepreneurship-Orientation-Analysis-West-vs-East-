@@ -74,7 +74,14 @@ install.packages(c("psych", "GPArotation", "paran", "maps", "dplyr",
 2. Execute cells sequentially to reproduce the analysis
 3. Explore visualizations and statistical results
 
+### Shiny app
+
 ## Key Insights
+**The Self-Efficacy and Autonomy Gap**: Scottish students consistently reported higher Self-Efficacy and Autonomy than Malaysian students, with moderate effect sizes. This is substantial because self-efficacy is a strong predictor of venture creation (Boyd and Vozikis, 1994; McGee et al., 2009).The gap suggests Western education fosters psychological readiness for entrepreneurship, whereas collectivist contexts may require additional confidence-building interventions. 
+
+**The Age-Gender Interaction in Risk-Taking**: While no overall gender difference in risk-taking emerged, a notable pattern appeared in the 30-39 age group, where men exhibited substantially higher risk-taking than women. This indicates that social and family responsibilities at mid-career stages, rather than inherent traits, constrain women's entrepreneurial risk-taking. This is consistent with research showing that caregiving roles disproportionately affect women's trajectories during these years (Jennings and Brush, 2013; Thébaud, 2015). 
+
+**Entrepreneurial Intention and Psychological Readiness**: Students intending to start businesses showed significantly higher Confidence and Risk-Taking, confirming that psychological orientation predicts entrepreneurial action (Krueger et al., 2000). However, moderate effect sizes suggest education can meaningfully influence students without strong entrepreneurial intentions. 
 
 This analysis provides data-driven insights into how entrepreneurial orientation varies across cultures, offering valuable perspectives for:
 - **Educators** designing entrepreneurship programs
